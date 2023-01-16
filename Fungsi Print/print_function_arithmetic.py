@@ -1,0 +1,6 @@
+print(1+1)
+print(3+5+1-2-4-5-5)
+print(5-7)
+print(7-1)
+print(3*4)
+print(10/5)
